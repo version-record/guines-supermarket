@@ -1,6 +1,6 @@
-# 🛒 Güines Supermarket – Tu súper cubano en Miami
+# 🛒 Güines Supermarket – Tu súper latino en Miami
 
-¡Bienvenido al sitio web oficial de **Güines Market Inc**! Hecho con ❤️ y tumbao cubano para que encuentres las mejores ofertas del día, contactes fácil y pidas delivery por WhatsApp.
+¡Bienvenido al sitio web oficial de **Güines Market Inc**! Hecho con ❤️ y tumbao latino para que encuentres las mejores ofertas del día, contactes fácil y pidas delivery por WhatsApp.
 
 ## 📍 Info del Súper
 - **Dirección**: 2300 NW 28th St, Miami, FL 33142

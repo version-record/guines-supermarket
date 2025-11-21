@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="210mm"
-   height="297mm"
-   viewBox="0 0 210 297"
+   width="1412.8589"
+   height="512.00006"
+   viewBox="0 0 373.81892 135.46668"
    version="1.1"
    id="svg1"
    inkscape:version="1.4.2 (1:1.4.2+202505120737+ebf0e940d0)"
@@ -22,10 +22,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
-     inkscape:document-units="mm"
-     inkscape:zoom="1.694548"
-     inkscape:cx="367.05953"
-     inkscape:cy="374.43613"
+     inkscape:document-units="px"
+     inkscape:zoom="0.2995566"
+     inkscape:cx="227.00218"
+     inkscape:cy="405.59948"
      inkscape:window-width="1854"
      inkscape:window-height="1011"
      inkscape:window-x="0"
@@ -37,77 +37,87 @@
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
-     id="layer1">
-    <rect
-       style="fill:#0b3b8e;fill-opacity:1;stroke-width:0.341775"
-       id="rect3"
-       width="135.46666"
-       height="13.499999"
-       x="42.534245"
-       y="84.579498" />
+     id="layer1"
+     transform="translate(96.085568,-72.713726)">
     <text
        xml:space="preserve"
        style="font-size:3.88056px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono, Normal';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#1a1a1a;stroke-width:0.264583"
-       x="61.582191"
-       y="92.679932"
+       x="7.7039475"
+       y="-30.091805"
        id="text2"><tspan
          sodipodi:role="line"
          id="tspan2"
          style="stroke-width:0.264583"
-         x="61.582191"
-         y="92.679932">La &quot;ü&quot; (minúscula) y &quot;Ü&quot; </tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.6327px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#ffcc00;stroke-width:0.498408"
-       x="35.205475"
-       y="118.16047"
-       id="text3"
-       transform="scale(1.2416839,0.80535795)"><tspan
-         sodipodi:role="line"
-         id="tspan3"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.6327px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';fill:#ffcc00;stroke-width:0.498408"
-         x="35.205475"
-         y="118.16047">GÜINES SUPERMARKET</tspan></text>
+         x="7.7039475"
+         y="-30.091805">La &quot;ü&quot; (minúscula) y &quot;Ü&quot; </tspan></text>
     <g
-       id="g7"
-       inkscape:export-filename="icon-512.png"
-       inkscape:export-xdpi="300"
-       inkscape:export-ydpi="300">
+       id="g1"
+       transform="translate(36.390923,-173.04817)">
       <rect
          style="fill:#0b3b8e;fill-opacity:1;stroke-width:0.341775"
-         id="rect4"
+         id="rect3"
          width="135.46666"
          height="13.499999"
-         x="37.381691"
-         y="65.00209" />
-      <text
-         xml:space="preserve"
-         style="font-size:3.88056px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono, Normal';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#1a1a1a;stroke-width:0.264583"
-         x="56.429638"
-         y="73.102524"
-         id="text4"><tspan
-           sodipodi:role="line"
-           id="tspan4"
-           style="stroke-width:0.264583"
-           x="56.429638"
-           y="73.102524">La &quot;ü&quot; (minúscula) y &quot;Ü&quot; </tspan></text>
+         x="42.534245"
+         y="84.579498" />
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.6327px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#ffcc00;stroke-width:0.498408"
-         x="31.055824"
-         y="93.85154"
-         id="text5"
+         x="35.205475"
+         y="118.16047"
+         id="text3"
          transform="scale(1.2416839,0.80535795)"><tspan
            sodipodi:role="line"
-           id="tspan5"
+           id="tspan3"
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.6327px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';fill:#ffcc00;stroke-width:0.498408"
-           x="31.055824"
-           y="93.85154">GÜINES SUPERMARKET</tspan></text>
+           x="35.205475"
+           y="118.16047">GÜINES SUPERMARKET</tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:12.2926px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono, Normal';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#1a1a1a;stroke-width:0.83813"
+       x="346.84683"
+       y="-2.3110054"
+       id="text4"
+       transform="scale(0.3156826,3.1677388)"><tspan
+         sodipodi:role="line"
+         id="tspan4"
+         style="stroke-width:0.83813"
+         x="346.84683"
+         y="-2.3110054">La &quot;ü&quot; (minúscula) y &quot;Ü&quot; </tspan></text>
+    <g
+       id="g2"
+       inkscape:export-filename="logo-name_full.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"
+       transform="translate(-250.40135,-208.8886)">
+      <rect
+         style="fill:#0b3b8e;fill-opacity:1;stroke-width:1.08265"
+         id="rect4"
+         width="135.46666"
+         height="135.46667"
+         x="9.5891266"
+         y="65.002113" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.77191px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#ffcc00;fill-opacity:1;stroke:#ffcc00;stroke-width:0.31782;stroke-opacity:1"
+         x="16.094984"
+         y="96.117699"
+         id="text5"
+         transform="scale(0.69118512,1.4467904)"
+         inkscape:export-filename="logo-name1.png"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300"><tspan
+           sodipodi:role="line"
+           id="tspan5"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.77191px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';fill:#ffcc00;fill-opacity:1;stroke:#ffcc00;stroke-width:0.31782;stroke-opacity:1"
+           x="16.094984"
+           y="96.117699">G Ü I N E S   S U P E R M A R K E T</tspan></text>
     </g>
     <g
        id="g6"
-       transform="matrix(1.3670302,0,0,1.3670302,-23.753317,-55.314891)"
-       inkscape:export-filename="icon-192.png"
+       transform="matrix(1.8227069,0,0,1.9366264,-123.39845,-121.85024)"
+       inkscape:export-filename="icon-256.png"
        inkscape:export-xdpi="300"
        inkscape:export-ydpi="300">
       <ellipse
@@ -126,6 +136,84 @@
          transform="scale(1.0267772,0.97392113)"><tspan
            sodipodi:role="line"
            id="tspan6"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:28.2051px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';fill:#ffcc00;stroke-width:1.32212"
+           x="53.527267"
+           y="148.8542">GS</tspan></text>
+    </g>
+    <g
+       id="g7"
+       transform="matrix(2.7340604,0,0,2.9049397,-102.97397,-252.99891)"
+       inkscape:export-filename="icon-384.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300">
+      <ellipse
+         style="fill:#0b3b8e;fill-opacity:1;stroke-width:0.264583"
+         id="ellipse2"
+         cx="70.961166"
+         cy="135.44032"
+         rx="18.580423"
+         ry="17.487455" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:28.2051px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#ffcc00;stroke-width:1.32212"
+         x="53.527267"
+         y="148.8542"
+         id="text7"
+         transform="scale(1.0267772,0.97392113)"><tspan
+           sodipodi:role="line"
+           id="tspan7"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:28.2051px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';fill:#ffcc00;stroke-width:1.32212"
+           x="53.527267"
+           y="148.8542">GS</tspan></text>
+    </g>
+    <g
+       id="g8"
+       transform="matrix(3.6454139,0,0,3.8732529,-48.682822,-384.14756)"
+       inkscape:export-filename="icon-512.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300">
+      <ellipse
+         style="fill:#0b3b8e;fill-opacity:1;stroke-width:0.264583"
+         id="ellipse7"
+         cx="70.961166"
+         cy="135.44032"
+         rx="18.580423"
+         ry="17.487455" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:28.2051px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#ffcc00;stroke-width:1.32212"
+         x="53.527267"
+         y="148.8542"
+         id="text8"
+         transform="scale(1.0267772,0.97392113)"><tspan
+           sodipodi:role="line"
+           id="tspan8"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:28.2051px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';fill:#ffcc00;stroke-width:1.32212"
+           x="53.527267"
+           y="148.8542">GS</tspan></text>
+    </g>
+    <g
+       id="g9"
+       transform="matrix(1.8227069,0,0,1.9366264,-191.56031,-121.85024)"
+       inkscape:export-filename="icon-512.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300">
+      <ellipse
+         style="fill:#0b3b8e;fill-opacity:1;stroke-width:0.264583"
+         id="ellipse8"
+         cx="70.961166"
+         cy="135.44032"
+         rx="18.580423"
+         ry="17.487455" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:28.2051px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#ffcc00;stroke-width:1.32212"
+         x="53.527267"
+         y="148.8542"
+         id="text9"
+         transform="scale(1.0267772,0.97392113)"><tspan
+           sodipodi:role="line"
+           id="tspan9"
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:28.2051px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';fill:#ffcc00;stroke-width:1.32212"
            x="53.527267"
            y="148.8542">GS</tspan></text>

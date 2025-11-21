@@ -1,6 +1,12 @@
+<<<<<<< HEAD
 # 🛒 Güines Supermarket – Tu súper cubano en Miami
 
 ¡Bienvenido al sitio web oficial de **Güines Market Inc**! Hecho con ❤️ y tumbao cubano para que encuentres las mejores ofertas del día, contactes fácil y pidas delivery por WhatsApp.
+=======
+# 🛒 Güines Supermarket – Tu súper latino en Miami
+
+¡Bienvenido al sitio web oficial de **Güines Market Inc**! Hecho con ❤️ y tumbao latino para que encuentres las mejores ofertas del día, contactes fácil y pidas delivery por WhatsApp.
+>>>>>>> 44b4243e88b64719e304402bc1893e612d17f114
 
 ## 📍 Info del Súper
 - **Dirección**: 2300 NW 28th St, Miami, FL 33142
@@ -18,4 +24,8 @@
 ```bash
 npm install
 npm run dev  # http://localhost:3000
+<<<<<<< HEAD
 npm run build && npm start  # Producción
+=======
+npm run build && npm start  # Producción
+>>>>>>> 44b4243e88b64719e304402bc1893e612d17f114
